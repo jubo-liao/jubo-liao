@@ -1,5 +1,5 @@
 - 👋 嗨，我是@jubo-liao
-- 👀高级程序猿带你走向架构师
+- 👀日复一日
 - 🌱 我正在..程序
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
